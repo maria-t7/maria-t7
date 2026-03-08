@@ -8,7 +8,7 @@
 
 ### 🙋‍♀️ About Me
 
-- 🎓 3rd year Computer Science & Engineering student at **KUET**, Bangladesh
+- 🎓 3rd year Electronics and Communication Engineering student at **KUET**, Bangladesh
 - 🤖 Self-learning **Machine Learning** from the ground up — focused on deep conceptual understanding
 - 🌐 Also learning **Web Development** on the side (HTML, CSS, JS)
 - 🔭 Currently exploring the AI world with ML,DL and NLP projects
@@ -55,7 +55,7 @@
 
 - Machine Learning algorithms (supervised + unsupervised)
 - Model evaluation, feature engineering, and real-world project workflows
-- Web development (HTML/CSS/JS — Sigma Web Dev course)
+- Web development (HTML/CSS/JS)
 
 ---
 
