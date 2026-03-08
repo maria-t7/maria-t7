@@ -11,7 +11,7 @@
 - 🎓 3rd year Computer Science & Engineering student at **KUET**, Bangladesh
 - 🤖 Self-learning **Machine Learning** from the ground up — focused on deep conceptual understanding
 - 🌐 Also learning **Web Development** on the side (HTML, CSS, JS)
-- 🔭 Currently working through the Codebasics ML playlist + building 50 ML projects
+- 🔭 Currently exploring the AI world with ML,DL and NLP projects
 - 💡 Interested in: ML, Data Science, AI applications
 - 📬 Open to **remote research & internship opportunities**
 
